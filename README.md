@@ -41,7 +41,7 @@ Before running the application, ensure you have the following:
 
 3. Set up environment variables:
 
-     Edit the `.env` file in the root directory and add the following:
+    Create a `.env` file in the root directory and add the following:
 
     ```dotenv
     USERNAME=your_username
